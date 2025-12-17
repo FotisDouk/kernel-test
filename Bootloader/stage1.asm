@@ -40,7 +40,7 @@ print:
 .done:
     ret
 
-msg db "Stage 1 Bootloader Loaded Successfully", 0
+msg db "Stage 1 Loaded Successfully", 0
 
 times 510 - ($ - $$) db 0
 dw 0xAA55
