@@ -1,48 +1,56 @@
-Non-Commercial Share-Alike Software License (NCSASL) v1.0
+Non-Commercial Share-Alike Software License (NCSASL) v1.1
+
 Copyright © 2025 FotisDouk
-• Definitions
-"Software" means the source code, binaries, documentation, and any other material included in this repository.
-"Author" refers exclusively to the original creator of the Software: Fotis.
-"You" refers to any individual or legal entity that uses, copies, modifies, or distributes the Software.
-"Derivative Work" means any modification, adaptation, translation, extension, or work based on the Software.
-"Commercial Use" means any use primarily intended for or directed toward commercial advantage, monetary compensation, or other financial gain, whether direct or indirect.
-• Grant of Rights
-Subject to the terms and conditions of this License, the Author grants You a worldwide, royalty-free, non-exclusive license to use, copy, modify, and redistribute the Software solely for non-commercial purposes.
-• Attribution and Authorship
-You must give clear, visible, and unambiguous credit to the Author (Fotis) in all copies of the Software and any Derivative Works, including but not limited to source code headers, documentation, README files, and public descriptions.
-You must not claim, imply, or represent that You are the original author of the Software.
-All modifications must be clearly marked, and You must state that such changes were not made by the Author.
-• Share-Alike Requirement
-Any Derivative Work must be licensed under this same License, without additional restrictions.
-Any redistribution of the Software, whether modified or unmodified, must be made under this same License.
-You must include a complete and unmodified copy of this License with every distribution of the Software or any Derivative Works.
-You may not sublicense, relicense, or distribute the Software or Derivative Works under different terms.
-You may not combine the Software with any material that would prevent compliance with this License.
-• Non-Commercial Restriction
-The Software and any Derivative Works may not be used for Commercial Use.
-You may not sell, license, rent, lease, monetize, or otherwise exploit the Software or Derivative Works for financial gain.
-You may not charge fees for access, distribution, support, hosting, or services where the Software or Derivative Works are a primary component.
-Use of the Software by for-profit entities is prohibited, regardless of whether payment is exchanged.
-• Patent Grant and Patent Retaliation
-The Author grants You a perpetual, worldwide, royalty-free license to any patent claims owned or controlled by the Author that would necessarily be infringed by the use of the Software.
-If You initiate or participate in any patent litigation alleging that the Software or any Derivative Work infringes a patent, all rights granted to You under this License terminate immediately.
+All rights reserved. Exclusive ownership retained by the Author.
+
+"Software" means the source code, binaries, documentation, assets, build files, and any other materials provided under this License.
+
+"Author" refers exclusively to the original creator of the Software: FotisDouk.
+
+"You" means any individual, group, organization, or legal entity that uses, copies, modifies, distributes, or otherwise interacts with the Software.
+
+"Derivative Work" means any modification, adaptation, fork, translation, extension, or work based on or incorporating the Software, in whole or in part.
+
+"Commercial Use" means any use that is primarily intended for, directed toward, or reasonably expected to result in commercial advantage, monetary compensation, cost savings, fundraising, advertising, data collection for profit, or any other direct or indirect financial or strategic benefit. This includes use by for-profit entities regardless of whether payment is exchanged.
+
+Subject to full compliance with this License, the Author grants You a worldwide, royalty-free, non-exclusive, revocable license to use, copy, modify, and redistribute the Software solely for non-commercial purposes. No rights are granted beyond those explicitly stated in this License.
+
+You must provide clear, visible, and unambiguous attribution to the Author in all copies of the Software and all Derivative Works, including but not limited to source code headers, documentation, README files, package metadata, and public descriptions.
+
+You must not claim, imply, or misrepresent that You are the original author of the Software. All modifications must be clearly documented and must explicitly state that they were not made by the Author. Attribution may not be removed, obscured, minimized, or altered.
+
+Any Derivative Work must be licensed only under this License, without additional terms, conditions, or restrictions. Redistribution of the Software, whether modified or unmodified, must include a complete and unmodified copy of this License and must preserve all copyright notices.
+
+You may not sublicense, relicense, dual-license, or distribute the Software or Derivative Works under different terms. You may not combine the Software with any material, license, or technology that would restrict or override the requirements of this License.
+
+The Software and any Derivative Works may not be used for Commercial Use. You may not sell, license, rent, lease, monetize, or otherwise exploit the Software. You may not charge fees for access, hosting, support, distribution, or services where the Software or Derivative Works are a primary component.
+
+Use of the Software by for-profit organizations, contractors acting on their behalf, or commercial platforms is strictly prohibited, regardless of whether payment is exchanged.
+
+You may not attempt to circumvent the intent of this License through technical separation, legal structuring, intermediaries, shell entities, or indirect use. Any attempt to bypass the non-commercial or share-alike requirements constitutes a violation of this License.
+
+The Author grants You a perpetual, worldwide, royalty-free license to any patent claims owned or controlled by the Author that are necessarily infringed by permitted use of the Software.
+
+If You initiate, assist, or participate in any patent litigation alleging that the Software or a Derivative Work infringes a patent, all rights granted under this License terminate immediately.
+
 You may not patent the Software, any Derivative Work, or any concept, algorithm, or implementation substantially derived from the Software.
-• No Trademark Rights
-This License does not grant permission to use the Author’s name, trademarks, or branding except for required attribution.
-• No Additional Restrictions
-You may not impose any legal, technical, or contractual restrictions that would limit the rights granted under this License.
-• Disclaimer of Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-• Limitation of Liability
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-• Termination
-Any violation of this License automatically terminates all rights granted to You.
-Upon termination, You must immediately cease all use, distribution, and modification of the Software and destroy all copies in Your possession.
-Sections relating to patents, warranty disclaimer, limitation of liability, and termination survive termination.
-• Governing Law
-This License shall be governed by and construed in accordance with the laws of the Author’s country of residence, without regard to conflict of law principles.
-• Severability
-If any provision of this License is held to be unenforceable, such provision shall be reformed to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in full force and effect.
-• Entire Agreement
+
+This License does not grant permission to use the Author’s name, trademarks, logos, or branding beyond required attribution.
+
+You may not impose legal, technical, digital, or contractual restrictions that limit the rights granted by this License, including DRM, access controls, or conflicting terms of service.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+Any violation of this License automatically and immediately terminates all rights granted to You. Upon termination, You must cease all use, modification, and distribution of the Software and destroy all copies in Your possession or control.
+
+Provisions concerning attribution, patents, warranty disclaimer, limitation of liability, and termination survive termination.
+
+This License is governed by and construed in accordance with the laws of the Author’s country of residence, without regard to conflict-of-law principles.
+
+If any provision of this License is held unenforceable, it shall be reformed to the minimum extent necessary to make it enforceable, without affecting the remaining provisions.
+
 This License constitutes the entire agreement concerning the Software and supersedes all prior or contemporaneous understandings.
+
 By using, copying, modifying, or distributing the Software, You agree to all terms of this License.
